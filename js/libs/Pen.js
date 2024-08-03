@@ -3,7 +3,7 @@
 var Pen = (function() {
   var pen = {
     colors: {
-      fg: '#555',
+      fg: '#123',
       bg: '#FFF'
     },
     lineWidth: 4,
